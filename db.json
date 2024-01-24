@@ -1,0 +1,52 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "userId": 1,
+      "createdAt": "2024-01-25",
+      "tagS": [
+        1,
+        2,
+        3
+      ],
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comments",
+      "postId": 1,
+      "createdAt": "2024-01-25"
+    },
+    {
+      "id": 2,
+      "body": "some comments",
+      "postId": 1,
+      "createdAt": "2024-01-25"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "tagName": "BMW"
+    },
+    {
+      "id": 2,
+      "tagName": "Mustang"
+    },
+    {
+      "id": 3,
+      "tagName": "Honda"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Edmar Sanchez",
+      "username": "zedmar09",
+      "password": "zedmar09"
+    }
+  ]
+}
