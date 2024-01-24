@@ -5,7 +5,7 @@
       "title": "Post 1",
       "userId": 1,
       "createdAt": "2024-01-25",
-      "tagS": [
+      "tags": [
         1,
         2,
         3
